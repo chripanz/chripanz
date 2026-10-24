@@ -1,6 +1,6 @@
 <div align="left">
 
-# BestChriii <img src="https://komarev.com/ghpvc/?username=BestChriii&style=for-the-badge" align="right"/>
+# chripanz <img src="https://komarev.com/ghpvc/?username=chripanz&style=for-the-badge" align="right"/>
 
 </div>
 
@@ -40,8 +40,8 @@ Always learning and improving my projects.
 
 <div align="left">
 
-<img height="170" src="https://github-readme-stats-alpha-orcin-77.vercel.app/api?username=bestchriii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="170" src="https://github-readme-stats-alpha-orcin-77.vercel.app/api/top-langs/?username=bestchriii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true"/>
+<img height="170" src="https://github-readme-stats-alpha-orcin-77.vercel.app/api?username=chripanz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats-alpha-orcin-77.vercel.app/api/top-langs/?username=chripanz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true"/>
 
 </div>
 
@@ -49,21 +49,21 @@ Always learning and improving my projects.
 
 ## Activity
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=bestchriii&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=chripanz&theme=tokyonight&hide_border=true"/>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/bestchriii/bestchriii/output/github-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/chripanz/chripanz/output/github-snake-dark.svg"/>
 
 ---
 
 ## Links
 
 GitHub  
-[BestChriii](https://github.com/bestchriii)
+[chripanz](https://github.com/chripanz)
 
 Discord  
-[BestChriii](https://discord.com/users/1089974561648414770)
+[bestchriii](https://discord.com/users/1089974561648414770)
 
 Email  
 [bestchriii@gmail.com](mailto:bestchriii@gmail.com)
