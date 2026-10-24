@@ -16,7 +16,7 @@ jobs:
       - name: Generate snake
         uses: Platane/snk@v3
         with:
-          github_user_name: bestchriii
+          github_user_name: chripanz
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
